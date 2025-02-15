@@ -8,9 +8,13 @@ This project presents an interactive Power BI dashboard for analyzing sales data
 Features
 
 Profit Analysis: Monthly profit trends and sub-category-wise profitability.
+
 Sales Breakdown: Total sales, order quantity, and average order value (AOV).
+
 Category & Payment Insights: Distribution of product categories and payment modes used.
+
 State-Wise Sales Performance: Identifies key revenue-generating states.
+
 Top Customers: Displays the highest-spending customers.
 
 Tools 
